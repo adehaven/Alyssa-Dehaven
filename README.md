@@ -22,3 +22,5 @@ I am interested to see if there is a budget allocation for foster youth based on
 - **Academic Research:** Leveraging datasets from academic research that could provide contexts into foster youth policy.
 
 
+## conclusion 
+*I will be assessing varying aspects and curating data sets from the fanfiction and/or the foster youth data
