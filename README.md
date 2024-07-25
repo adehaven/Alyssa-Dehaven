@@ -1,3 +1,6 @@
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/adehaven/Alyssas-repo-new/main)
+
 # Alyssas-repo-new
 # foster youth/harry potter fanfiction 
 
