@@ -1,0 +1,5 @@
+git add environment.yml
+git commit -m "Add environment.yml for Binder"
+git commit -m "Add environment.yml for Binder"
+name: myenvchannels:  - defaultsdependencies:  - numpy  - pandas  - matplotlib  - jupyter
+# Add the file to Gitgit add environment.yml# Commit the changesgit commit -m "Add environment.yml for Binder"# Push to GitHubgit push origin main
